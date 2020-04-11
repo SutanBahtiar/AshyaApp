@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">AshyaApp</string>
+
+    <!-- main menu -->
+    <string name="calculation">Berhitung</string>
+    <string name="reading">Membaca</string>
+    <string name="listening">Mendengarkan</string>
+    <string name="credit">Credit</string>
+    <string name="info">Info</string>
+    <string name="game">Game</string>
+    <string name="setting">Setting</string>
+    <string name="music">Music</string>
+
+    <!-- calculation -->
+    <string name="param1">8</string>
+    <string name="param2">20</string>
+    <string name="logic">+</string>
+    <string name="equals">= ?</string>
+    <string name="answer"></string>
+    <string name="initial_score">Score %1$s/%2$d</string>
+    <string name="correct_toast">Benar..</string>
+    <string name="incorrect_toast">Salah..</string>
+
+    <!-- reading -->
+    <string name="read">baca buku di rumah</string>
+    <string name="result">...</string>
+    <string name="read_1">belajar di rumah</string>
+    <string name="read_2">pagi-pagi makan bubur</string>
+    <string name="read_3">ikut mama ke pasar</string>
+    <string name="read_4">mandi sendiri</string>
+    <string name="read_5">naik ke puncak gunung</string>
+    <string name="read_6">yogyakarta</string>
+    <string name="read_7">surabaya</string>
+    <string name="read_8">jakarta</string>
+    <string name="read_9">denpasar</string>
+    <string name="read_10">manado</string>
+    <string name="read_11">jakarta</string>
+    <string name="read_12">indonesia</string>
+    <string name="read_13">makan banyak</string>
+    <string name="read_14">jangan suka main terus</string>
+    <string name="read_15">kalimantan timur</string>
+    <string name="read_16">aceh utara</string>
+    <string name="read_17">sumatra barat</string>
+    <string name="read_18">jawa tengah</string>
+    <string name="read_19">pontianak</string>
+    <string name="read_20">mie ayam</string>
+    <string name="read_21">bakmi rebus</string>
+    <string name="read_22">ikan bakar</string>
+
+    <!-- listening -->
+    <string name="sound">Sound</string>
+    <string name="check">Check</string>
+    <string name="star">Progress Status</string>
+    <string name="next">Next</string>
+
+    <!-- music -->
+    <string name="do_c">1/c</string>
+    <string name="re_d">2/d</string>
+    <string name="mi_e">3/e</string>
+    <string name="fa_f">4/f</string>
+    <string name="sol_g">5/g</string>
+    <string name="la_a">6/a</string>
+    <string name="si_b">7/b</string>
+    <string name="do_i_c">i/C</string>
+
+    <string name="ibu_kita_kartini">1 . 2 3 4 5 . 3 1 . 6 . i 7 6 5 . . .</string>
+
+</resources>

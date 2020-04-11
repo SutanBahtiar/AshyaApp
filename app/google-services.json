@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796389062836",
+    "firebase_url": "https://ashyahome-8a1e5.firebaseio.com",
+    "project_id": "ashyahome-8a1e5",
+    "storage_bucket": "ashyahome-8a1e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796389062836:android:e683cb4c8ac62c63f83fe1",
+        "android_client_info": {
+          "package_name": "ashya.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796389062836-3r6uicictet861n585va59530e7mda4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8IGyaVCY26KdvTwFYm8gnmRgzdQ46vmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796389062836-3r6uicictet861n585va59530e7mda4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

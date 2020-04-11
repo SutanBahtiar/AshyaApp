@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#008577</color>-->
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+<!--    <color name="colorPrimary">#48D26B</color>-->
+<!--    <color name="colorPrimaryDark">#36b957</color>-->
+<!--    <color name="colorAccent">#D81B60</color>-->
+    <color name="colorText">#ecf0f1</color>
+
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#E64A19</color>
+    <color name="primary_light">#FFCCBC</color>
+    <color name="accent">#CDDC39</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- button -->
+    <color name="colorButtonBackgroundCalculation">#da1bda</color>
+    <color name="colorButtonBackgroundReading">#4bda1b</color>
+    <color name="colorButtonBackgroundListening">#1b7ada</color>
+
+    <color name="red">#F15050</color>
+    <color name="red_dark">#d43c3c</color>
+    <color name="yellow">#EED45A</color>
+    <color name="yellow_dark">#d4bb46</color>
+    <color name="lime">#BCE24A</color>
+    <color name="lime_dark">#9dbf35</color>
+    <color name="green">#48D26B</color>
+    <color name="green_dark">#36b957</color>
+    <color name="blue">#48DFE1</color>
+    <color name="blue_dark">#37c4c6</color>
+    <color name="dark_blue">#5A9CEE</color>
+    <color name="dark_blue_dark">#417eca</color>
+    <color name="dark_violet">#7E50F1</color>
+    <color name="dark_violet_dark">#683dd4</color>
+    <color name="violet">#D65AEE</color>
+    <color name="violet_dark">#b33ec9</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="red_material">#d50000</color>
+    <color name="pink_material">#c51162</color>
+    <color name="purple_material">#aa00ff</color>
+    <color name="dep_purple_material">#6200ea</color>
+    <color name="indigo_material">#304ffe</color>
+    <color name="blue_material">#2962ff</color>
+    <color name="light_blue_material">#0091ea</color>
+    <color name="cyan_material">#00b8d4</color>
+
+    <color name="background_music">#78909c</color>
+
+
+</resources>
